@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+}
+
+.titulo {
+    font-size: 1.5em;
+    margin: 0 10%;
+    text-decoration: none;
+    color: black;
+
+}
+
+.paginas {
+    margin: auto;
+}
+
+.link {
+    color: black;
+    margin: 0px 10px;
+    text-decoration: none;
+}
+
+.link:hover {
+    color: grey;
+}

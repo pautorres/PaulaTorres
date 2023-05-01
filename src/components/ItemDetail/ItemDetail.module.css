@@ -1,0 +1,16 @@
+.containerItemDetail {
+    text-align: center;
+}
+
+.containerDetail {
+    position: relative;
+    transform: translate(0, -120px);
+}
+
+.containerImage {
+    width: 100%;
+}
+
+.containerImage img {
+    width: 50%;
+}
